@@ -1,6 +1,6 @@
 <?php
 // APPLICATION
-define('APPLICATION', 'Adminn');
+define('APPLICATION', 'Admin');
 
 // HTTP
 define('HTTP_SERVER', 'http://localhost/opencart/upload/admin/');
