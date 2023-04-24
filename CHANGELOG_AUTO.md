@@ -1,4 +1,4 @@
-# Change Logg
+# Change Log
 
 ## [Unreleased](https://github.com/opencart/opencart/tree/HEAD)
 
